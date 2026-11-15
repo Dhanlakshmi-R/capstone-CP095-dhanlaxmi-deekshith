@@ -30,12 +30,6 @@
    java Main
    ```
 
-   For Windows, use:
-
-   ```bash
-   java Main
-   ```
-
 ## Features Implemented
 
 - Menu-driven console interface
