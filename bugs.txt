@@ -98,3 +98,14 @@ reopenCount=0
 reportedAt=1793722984589
 history=Reported
 ---
+id=8
+title=login button not working
+module=Auth
+severity=High
+developer=
+status=New
+steps=the button does nothing whne clicked
+reopenCount=0
+reportedAt=1794724287554
+history=Reported
+---
